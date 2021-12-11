@@ -1,0 +1,2 @@
+code examples taken from https://www.peterhigginson.co.uk/LMC/help.html
+additionally the OTC instruction I believe was his addition to the LMC instruction set.
